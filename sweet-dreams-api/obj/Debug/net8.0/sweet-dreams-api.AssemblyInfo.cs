@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sweet-dreams-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705de322a9ddaf5f929065415fd87a4d45381d05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b028942a57763c21a48e441d07f48af9b1a0bf27")]
 [assembly: System.Reflection.AssemblyProductAttribute("sweet-dreams-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sweet-dreams-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

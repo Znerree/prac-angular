@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        cookie: ["Cookie", "cookie-regular"],
+        cookie: ["Cookie", "cursive"],
       },
     },
   },

@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
+import { MatToolbarModule } from '@angular/material/toolbar';
+import { MatInputModule } from '@angular/material/input';
 import { MainSearchComponent } from '../main-search/main-search.component';
-import {MatToolbarModule} from '@angular/material/toolbar';
-import {MatInputModule} from '@angular/material/input'
-
 
 @Component({
   selector: 'app-header',
@@ -11,5 +10,4 @@ import {MatInputModule} from '@angular/material/input'
   templateUrl: './header.component.html',
   // template: '<div>hello</div>'
 })
-export class HeaderComponent {
-}
+export class HeaderComponent {}
