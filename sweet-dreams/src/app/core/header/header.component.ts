@@ -1,12 +1,15 @@
 import { Component } from '@angular/core';
+import { MainSearchComponent } from '../main-search/main-search.component';
+import {MatToolbarModule} from '@angular/material/toolbar';
+import {MatInputModule} from '@angular/material/input'
+
 
 @Component({
   selector: 'app-header',
   standalone: true,
-  imports: [],
+  imports: [MainSearchComponent, MatToolbarModule, MatInputModule],
   templateUrl: './header.component.html',
-  styleUrl: './header.component.css'
+  // template: '<div>hello</div>'
 })
 export class HeaderComponent {
-
 }
